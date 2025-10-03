@@ -31,3 +31,6 @@ Add your goals in the input fields.
 Click the checkbox to mark as completed.
 
 Track progress with the progress bar.
+
+<img width="1851" height="1024" alt="image" src="https://github.com/user-attachments/assets/b8e05129-5a5b-425b-97c9-4e97b53def52" />
+
