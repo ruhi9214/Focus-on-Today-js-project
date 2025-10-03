@@ -36,4 +36,7 @@ Track progress with the progress bar.
 
 <img width="1840" height="1012" alt="image" src="https://github.com/user-attachments/assets/8b4edb3c-ccd2-4784-92cd-fceb586061e9" />
 
+<img width="1833" height="1006" alt="image" src="https://github.com/user-attachments/assets/6275acdf-33a4-493a-8a26-91e2813cc694" />
+
+
 
