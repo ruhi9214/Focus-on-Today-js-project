@@ -10,6 +10,7 @@ Saves data in localStorage so goals remain after refresh.
 
 🛠 Tech Stack :
 HTML5
+
 CSS3
 JavaScript (ES6)
 
